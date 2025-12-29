@@ -1,0 +1,21 @@
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and large files
+data/cifar-100-python/
+data/*.tar.gz
+
+# Logs and outputs
+log/*.log
+log/*.txt
+# Environments
+.venv/
+env/
+venv/
+.env
+
+# IDE specific
+.vscode/
+.idea/
