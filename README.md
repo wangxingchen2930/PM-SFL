@@ -56,6 +56,7 @@ Our code is designed to automatically print the evaluation results during traini
 
 ```bash
    python -u main.py --training_method mask --aggregation_method binary
+```
 
 2. **(Optional) To run standard weight training (Baseline)**:
 
